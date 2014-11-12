@@ -1,0 +1,15 @@
+#!nsh
+#
+# Traditional Helicopter HIL
+#
+# Caelan Midwood <c.e.midwood@gmail.com>
+#
+
+set VEHICLE_TYPE none
+set MIXER FMU_CCPM
+set USE_IO yes
+set FMU_MODE mode_gpio
+set HIL yes
+
+
+

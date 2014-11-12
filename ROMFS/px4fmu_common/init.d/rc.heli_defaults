@@ -1,0 +1,18 @@
+#!nsh
+
+set VEHICLE_TYPE heli
+
+if [ $DO_AUTOCONFIG == yes ]
+then
+#
+# Default parameters for FW
+#
+
+
+
+
+
+
+
+
+fi

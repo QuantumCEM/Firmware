@@ -1,0 +1,12 @@
+#!nsh
+#
+# Standard apps for helicopters:
+# att & pos estimator, att & pos control.
+#
+
+attitude_estimator_ekf start
+#ekf_att_pos_estimator start
+position_estimator_inav start
+
+heli_att_control start
+heli_pos_control start

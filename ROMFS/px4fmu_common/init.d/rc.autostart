@@ -52,6 +52,10 @@ then
 	sh /etc/init.d/1005_rc_fw_Malolo1.hil
 fi
 
+if param compare SYS_AUTOSTART 1006
+    sh /etc/init.d/1006_rc_heli.hil
+fi
+
 #
 # Standard plane
 #
