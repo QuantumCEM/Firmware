@@ -10,6 +10,3 @@ set MIXER FMU_CCPM
 set USE_IO yes
 set FMU_MODE mode_gpio
 set HIL yes
-
-
-

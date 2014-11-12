@@ -37,4 +37,6 @@
  * Helicopter position controller parameters.
  *
  * @author Caelan Midwood <c.e.midwood@gmail.com>
+ * These can't be written until the main pos controller has been written
+ * This file is just a pass holder for future work
  */

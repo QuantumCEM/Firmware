@@ -36,7 +36,7 @@
  *
  * @author Lorenz Meier <lm@inf.ethz.ch>
  * @author Thomas Gubler <thomasgubler@gmail.com>
- * @author Caelan Midwood <c.e.midwoood@gmail.com>
+ * @author Caelan Midwood <c.e.midwoood@gmail.com> (tentative)
  *
  */
 

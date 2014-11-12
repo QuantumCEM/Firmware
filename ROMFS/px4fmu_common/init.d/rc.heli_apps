@@ -4,6 +4,7 @@
 # att & pos estimator, att & pos control.
 #
 
+# Not sure if I need these but they were present in the mc apps file
 attitude_estimator_ekf start
 #ekf_att_pos_estimator start
 position_estimator_inav start

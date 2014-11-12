@@ -5,8 +5,9 @@ set VEHICLE_TYPE heli
 if [ $DO_AUTOCONFIG == yes ]
 then
 #
-# Default parameters for FW
-#
+# Default parameters for heli
+# Need to update this once controllers have been made
+# Placeholder fiel
 
 
 
